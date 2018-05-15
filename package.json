@@ -1,0 +1,12 @@
+{
+  "name": "mobx-state-tree-bug",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "repository": "https://github.com/kyleholzinger/mobx-state-tree-bug",
+  "author": "Kyle Holzinger <kylelholzinger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mobx": "^4.2.1",
+    "mobx-state-tree": "^2.0.5"
+  }
+}
